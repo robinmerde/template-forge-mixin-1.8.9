@@ -1,13 +1,13 @@
 [
 {
-  "modid": "examplemod",
-  "name": "ExampleMod",
+  "modid": "sanglier",
+  "name": "Sanglier",
   "description": "Nice mod",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["manuthebyte", "ExampleModDev"],
+  "authorList": ["Doggio"],
   "credits": "",
   "logoFile": "",
   "screenshots": [],
